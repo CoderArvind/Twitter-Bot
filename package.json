@@ -1,0 +1,21 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Its a twitter bot",
+  "main": "\t1.js",
+  "scripts": {
+    "start": "node 1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Arvind Vijaya Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.79.0",
+    "twit": "^2.2.5",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
