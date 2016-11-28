@@ -29,7 +29,7 @@ function readTweet(eventObj)
   //  console.log(hashtags[1]+sender);
   }
   else{
-    tweetIt(".@"+sender+" Sorry, something went wrong! :-(");
+    //tweetIt(".@"+sender+" Sorry, something went wrong! :-(");
   }
 }
 
